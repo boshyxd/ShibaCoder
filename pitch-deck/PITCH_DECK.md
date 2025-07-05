@@ -19,7 +19,7 @@
   - Position: Center, 480px from top
   - Letter spacing: -2px
   
-- **Tagline:** "Your AI coding companion that never gives up"
+- **Tagline:** "Real-time 1v1 competitive programming battles"
   - Font: Inter Regular, 32px
   - Color: #B8BCC8 (Light gray)
   - Position: Center, 580px from top
@@ -53,23 +53,23 @@
 **Column spacing:** 80px between
 **Column width:** 440px each
 
-1. **AI Pair Programmer**
+1. **Real-time Battles**
    - Icon: 80x80px, centered
    - Title: Inter Semibold, 28px, #FFFFFF
    - Description: Inter Regular, 20px, #B8BCC8
-   - "Codes alongside you with determination"
+   - "Race against opponents to solve coding problems"
 
-2. **Hackathon Helper**
+2. **Live Progress Tracking**
    - Icon: 80x80px, centered
    - Title: Inter Semibold, 28px, #FFFFFF
    - Description: Inter Regular, 20px, #B8BCC8
-   - "Built by hackers, for hackers"
+   - "See opponent's test cases pass in real-time"
 
-3. **Learning Companion**
+3. **Competitive Learning**
    - Icon: 80x80px, centered
    - Title: Inter Semibold, 28px, #FFFFFF
    - Description: Inter Regular, 20px, #B8BCC8
-   - "Explains concepts with patience"
+   - "Learn algorithms through gamified competition"
 
 ### Visual Elements:
 - **Shiba mascot:** Bottom right, 200x200px
@@ -99,19 +99,19 @@
    - Icon: 60x60px circle, #22D3EE (Cyan)
    - Text: Inter Medium, 36px, #FFFFFF
    - Subtext: Inter Regular, 24px, #B8BCC8
-   - "Open-source & accessible to all"
+   - "Brings developers together through competition"
 
 2. **EDUCATION**
    - Icon: 60x60px circle, #10B981 (Green)
    - Text: Inter Medium, 36px, #FFFFFF
    - Subtext: Inter Regular, 24px, #B8BCC8
-   - "Learn by doing with AI guidance"
+   - "Learn algorithms through gamified battles"
 
 3. **INNOVATION**
    - Icon: 60x60px circle, #8B5CF6 (Purple)
    - Text: Inter Medium, 36px, #FFFFFF
    - Subtext: Inter Regular, 24px, #B8BCC8
-   - "Pushing boundaries of AI assistance"
+   - "Real-time code sync & live progress tracking"
 
 ### Right Section (40%):
 - **Visual:** Animated network diagram
@@ -196,8 +196,14 @@
 
 ### Presentation Flow:
 1. **Slide 1:** 15 seconds - Introduction
-2. **Slide 2:** 30 seconds - What is ShibaCoder
+2. **Slide 2:** 30 seconds - What is ShibaCoder (competitive programming battles)
 3. **Slide 3:** 30 seconds - How we align with Hack404
 4. **Slide 4:** 5 seconds - Transition to live demo
 
 **Total time before demo:** 1 minute 20 seconds
+
+### Key Messages:
+- ShibaCoder is a real-time 1v1 competitive programming platform
+- Players race to solve coding problems with live progress tracking
+- Makes learning algorithms fun through gamification
+- Not an AI assistant - it's a multiplayer coding battle game
