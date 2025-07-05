@@ -7,7 +7,7 @@
 **Dimensions:** 1920x1080px
 
 ### Layout Structure:
-- **Background:** Solid color #0A0E27 (Deep space blue)
+- **Background:** Solid color #EBC697 (Warm sand)
 - **Logo Position:** Center screen, 400x400px
   - Y: 340px from top
   - Shiba Inu illustration with coding elements
@@ -15,23 +15,23 @@
 ### Typography:
 - **Title:** "ShibaCoder"
   - Font: Inter Black, 72px
-  - Color: #FFFFFF
+  - Color: #3E2723 (Dark brown)
   - Position: Center, 480px from top
   - Letter spacing: -2px
   
 - **Tagline:** "Real-time 1v1 competitive programming battles"
   - Font: Inter Regular, 32px
-  - Color: #B8BCC8 (Light gray)
+  - Color: #5D4037 (Medium brown)
   - Position: Center, 580px from top
   - Letter spacing: 0px
 
 ### Visual Elements:
 - **Accent stars:** 3 animated stars (24px each)
-  - Color: #FFD93D (Shiba yellow)
+  - Color: #FF8A65 (Coral orange)
   - Positions: Scattered around logo
 - **Code snippet decoration:** Faded in background
   - Opacity: 10%
-  - Color: #FFFFFF
+  - Color: #3E2723
 
 ---
 
@@ -39,15 +39,15 @@
 **Dimensions:** 1920x1080px
 
 ### Layout Structure:
-- **Background:** #0A0E27 with subtle gradient overlay
+- **Background:** #EBC697 with subtle gradient overlay to #D4A574
 - **Content area:** 1600x800px centered container
 
 ### Typography:
 - **Header:** "What is ShibaCoder?"
   - Font: Inter Bold, 56px
-  - Color: #FFFFFF
+  - Color: #3E2723 (Dark brown)
   - Position: 160px from top, left-aligned
-  - Underline accent: 4px, #FFD93D, 80px wide
+  - Underline accent: 4px, #FF8A65, 80px wide
 
 ### Content Blocks (3 columns):
 **Column spacing:** 80px between
@@ -55,20 +55,20 @@
 
 1. **Real-time Battles**
    - Icon: 80x80px, centered
-   - Title: Inter Semibold, 28px, #FFFFFF
-   - Description: Inter Regular, 20px, #B8BCC8
+   - Title: Inter Semibold, 28px, #3E2723
+   - Description: Inter Regular, 20px, #6D4C41
    - "Race against opponents to solve coding problems"
 
 2. **Live Progress Tracking**
    - Icon: 80x80px, centered
-   - Title: Inter Semibold, 28px, #FFFFFF
-   - Description: Inter Regular, 20px, #B8BCC8
+   - Title: Inter Semibold, 28px, #3E2723
+   - Description: Inter Regular, 20px, #6D4C41
    - "See opponent's test cases pass in real-time"
 
 3. **Competitive Learning**
    - Icon: 80x80px, centered
-   - Title: Inter Semibold, 28px, #FFFFFF
-   - Description: Inter Regular, 20px, #B8BCC8
+   - Title: Inter Semibold, 28px, #3E2723
+   - Description: Inter Regular, 20px, #6D4C41
    - "Learn algorithms through gamified competition"
 
 ### Visual Elements:
@@ -82,13 +82,13 @@
 **Dimensions:** 1920x1080px
 
 ### Layout Structure:
-- **Background:** #0A0E27
+- **Background:** #EBC697
 - **Split layout:** 60/40 vertical split
 
 ### Left Section (60%):
 - **Header:** "Built on Hack404's Core Values"
   - Font: Inter Bold, 48px
-  - Color: #FFFFFF
+  - Color: #3E2723
   - Position: 160px from top, 160px from left
 
 ### Three Pillars (Vertical stack):
@@ -96,21 +96,21 @@
 **Start position:** 280px from top
 
 1. **COMMUNITY**
-   - Icon: 60x60px circle, #22D3EE (Cyan)
-   - Text: Inter Medium, 36px, #FFFFFF
-   - Subtext: Inter Regular, 24px, #B8BCC8
+   - Icon: 60x60px circle, #8D6E63 (Light brown)
+   - Text: Inter Medium, 36px, #3E2723
+   - Subtext: Inter Regular, 24px, #6D4C41
    - "Brings developers together through competition"
 
 2. **EDUCATION**
-   - Icon: 60x60px circle, #10B981 (Green)
-   - Text: Inter Medium, 36px, #FFFFFF
-   - Subtext: Inter Regular, 24px, #B8BCC8
+   - Icon: 60x60px circle, #A1887F (Tan brown)
+   - Text: Inter Medium, 36px, #3E2723
+   - Subtext: Inter Regular, 24px, #6D4C41
    - "Learn algorithms through gamified battles"
 
 3. **INNOVATION**
-   - Icon: 60x60px circle, #8B5CF6 (Purple)
-   - Text: Inter Medium, 36px, #FFFFFF
-   - Subtext: Inter Regular, 24px, #B8BCC8
+   - Icon: 60x60px circle, #FF8A65 (Coral orange)
+   - Text: Inter Medium, 36px, #3E2723
+   - Subtext: Inter Regular, 24px, #6D4C41
    - "Real-time code sync & live progress tracking"
 
 ### Right Section (40%):
@@ -126,13 +126,13 @@
 **Dimensions:** 1920x1080px
 
 ### Layout Structure:
-- **Background:** Gradient #0A0E27 to #1A1F3A
+- **Background:** Gradient #EBC697 to #D4A574
 - **Center-focused design**
 
 ### Typography:
 - **Main text:** "Let's see it in action!"
   - Font: Inter Black, 84px
-  - Color: #FFFFFF
+  - Color: #3E2723
   - Position: Center, 440px from top
   - Animation: Subtle pulse effect
 
@@ -140,9 +140,9 @@
 - **Code editor preview:** 
   - Dimensions: 800x400px
   - Position: Center, 580px from top
-  - Border: 3px solid #FFD93D
+  - Border: 3px solid #FF8A65
   - Corner radius: 16px
-  - Shadow: 0 20px 40px rgba(0,0,0,0.3)
+  - Shadow: 0 20px 40px rgba(62,39,35,0.3)
   - Content: Blurred code snippet
 
 - **Shiba mascot:**
@@ -152,14 +152,14 @@
 
 - **Call-to-action arrow:**
   - Size: 48px
-  - Color: #FFD93D
+  - Color: #FF8A65
   - Position: Below code editor
   - Animation: Bounce effect
 
 ### Footer text:
 - "Live demo starting now..."
   - Font: Inter Regular Italic, 24px
-  - Color: #B8BCC8
+  - Color: #6D4C41
   - Position: 920px from top, centered
 
 ---
@@ -167,13 +167,13 @@
 ## Design System Summary
 
 ### Color Palette:
-- **Primary:** #0A0E27 (Deep space blue)
-- **Secondary:** #FFD93D (Shiba yellow)
-- **Text Primary:** #FFFFFF
-- **Text Secondary:** #B8BCC8
-- **Accent Cyan:** #22D3EE
-- **Accent Green:** #10B981
-- **Accent Purple:** #8B5CF6
+- **Primary Background:** #EBC697 (Warm sand)
+- **Secondary Background:** #D4A574 (Darker sand)
+- **Text Primary:** #3E2723 (Dark brown)
+- **Text Secondary:** #6D4C41 (Medium brown)
+- **Accent Primary:** #FF8A65 (Coral orange)
+- **Accent Brown 1:** #8D6E63 (Light brown)
+- **Accent Brown 2:** #A1887F (Tan brown)
 
 ### Typography:
 - **Font Family:** Inter (Google Fonts)
